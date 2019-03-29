@@ -1,0 +1,15 @@
+ 
+ host sdasdasd 
+ hardware ethernet aa:bbcc:ddee:ff;
+ fixed-address 200.235.72.102;
+ 
+ host xxxxx 
+ hardware ethernet aa:bbcc:ddee:ff;
+ fixed-address 200.235.72.102;
+ 
+ host yyyyy 
+ hardware ethernet aa:bbcc:ddee:ff;
+ fixed-address 200.235.72.2;
+ 
+ 
+ 
